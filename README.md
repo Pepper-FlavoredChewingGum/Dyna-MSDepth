@@ -1,5 +1,4 @@
-# Dyna-MSDepth: Multi-scale self-supervised monocular depth estimation network for
-visual simultaneous localization and mapping in dynamic scenes
+# Dyna-MSDepth: Multi-scale self-supervised monocular depth estimation network for visual simultaneous localization and mapping in dynamic scenes
 
 
 ## Install
