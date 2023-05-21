@@ -2,13 +2,6 @@
 visual simultaneous localization and mapping in dynamic scenes
 
 
-
-Qualatative depth estimation results: TUM, BONN, KITTI, DDAD
-
-   ![image-20230521160102935](C:\Users\李英朝\AppData\Roaming\Typora\typora-user-images\image-20230521160102935.png)
-
-
-
 ## Install
 ```
 conda create -n depth_env python=3.8
